@@ -94,8 +94,14 @@ function isPalindrome(str) {
 //         }
 //     }
 //     return isPali
+  
 
 }
+
+//shortest
+//function isPal(s) {
+//	return s.split('').reverse().join('') === s;
+//}
 
 
 
